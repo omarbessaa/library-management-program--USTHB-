@@ -1,0 +1,12 @@
+ Titre : electricite Auteur : bessaa_omar Code  : 1 nombre_de_copies : 5 
+
+ Titre : math Auteur : bessaa_brahim Code  : 2 nombre_de_copies : 7 
+
+ Titre : info Auteur : bessaa_bilel Code  : 3 nombre_de_copies : 5 
+
+ Titre : livre Auteur : fizazi_ahmed Code  : 4 nombre_de_copies : 24 
+
+ Titre : les Auteur : islam_jaka Code  : 5 nombre_de_copies : 7 
+
+ Titre : c++ Auteur : karim_yacine Code  : 6 nombre_de_copies : 8 
+

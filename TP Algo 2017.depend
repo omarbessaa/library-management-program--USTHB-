@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1494908320 source:d:\bessaa omar\tp algo 2017\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"graphic.c"
+	"traiter.c"
+
+1494539153 d:\bessaa omar\tp algo 2017\graphic.h
+
+1494925195 d:\bessaa omar\tp algo 2017\graphic.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"conio.c"
+
+1494539153 d:\bessaa omar\tp algo 2017\conio2.h
+	<conio.h>
+	<windows.h>
+
+1494820192 d:\bessaa omar\tp algo 2017\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1494911815 d:\bessaa omar\tp algo 2017\traiter.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
